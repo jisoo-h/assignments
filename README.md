@@ -1,3 +1,3 @@
-# Assignments
+# Projects
 
-A collection of class assignments spanning data science and machine learning.
+A collection of class projects spanning data science and machine learning.
